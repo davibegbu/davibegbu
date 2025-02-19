@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 I'm a January 2026 graduate in Computer Science from Kettering University.
 I am passionate about Software Engineering, Data Analysis, Information Systems, AI, and cloud computing, and I am always eager to take on new challenges to expand my technical expertise.
