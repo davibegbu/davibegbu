@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 I'm a January 2026 graduate in Computer Science from Kettering University.
-I have a strong passion for software engineering, Data Analysis, Information Systems, AI, and cloud computing, and I am always eager to take on new challenges to expand my technical expertise.
+I am passionate about Software Engineering, Data Analysis, Information Systems, AI, and cloud computing, and I am always eager to take on new challenges to expand my technical expertise.
 
 
-💻 Software Technicalist Engineer [@ Design Systems Inc.](https://www.ds-mfgengineering.com/)
+💻 Software Technicalist Engineer [@Design Systems Inc.](https://www.ds-mfgengineering.com/)
 
-⚡ Former Junior Software Engineer [@ Magna](https://www.magna.com/)
+⚡ Former Junior Software Engineer [@Magna](https://www.magna.com/)
 
 ⚽ Soccer Enthusiast | NSBE Leader | Community Volunteer
 
