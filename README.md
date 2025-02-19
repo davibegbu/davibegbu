@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+David+nice+to+meet+you+😉)](https://git.io/typing-svg)
 
-I'm a January 2026 graduate in Computer Science from Kettering University.
-I am passionate about Software Engineering, Data Analysis, Information Systems, AI, and cloud computing, and I am always eager to take on new challenges to expand my technical expertise.
+I am set to graduate in January 2026 with a degree in Computer Science from Kettering University. Passionate about Software Engineering, Data Analysis, Information Systems, AI, and Cloud Computing, I thrive on tackling new challenges that expand my technical expertise and problem-solving skills.
 
 
 💻 Software Technicalist Engineer [@Design Systems Inc.](https://www.ds-mfgengineering.com/)
