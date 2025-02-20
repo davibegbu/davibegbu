@@ -14,4 +14,4 @@ While you're here, feel free to check out my projects! You can also:
 
 📩 Contact me: davibegbu@gmail.com or ibeg8576@kettering.edu
               
-🌐 Learn more about me: [Insert your website link]
+🌐 Learn more about me: [DavidIbegbu.com](https://davibegbu.github.io/DavidIbegbu.com/)
