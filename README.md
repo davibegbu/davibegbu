@@ -2,9 +2,9 @@
 
 ## 🌟 About Me:
 
-**"I am set to graduate in January 2026 with a degree in Computer Science from Kettering University. Passionate about Software Engineering, Data Analysis, Information Systems, and AI, I thrive on tackling new challenges that expand my technical expertise and problem-solving skills.
+I am set to graduate in January 2026 with a degree in Computer Science from Kettering University. Passionate about Software Engineering, Data Analysis, Information Systems, and AI, I thrive on tackling new challenges that expand my technical expertise and problem-solving skills.
 
-I actively explore full-stack development, AI applications, and cloud computing, with strong interests in web development, machine learning, cybersecurity, and automation. I enjoy experimenting with new frameworks, emerging technologies, and innovative projects to enhance my skills continuously."**
+I actively explore full-stack development, AI applications, and cloud computing, with strong interests in web development, machine learning, cybersecurity, and automation. I enjoy experimenting with new frameworks, emerging technologies, and innovative projects to enhance my skills continuously.
 
 💻 Software Technicalist Engineer [@Design Systems Inc.](https://www.ds-mfgengineering.com/)
 
