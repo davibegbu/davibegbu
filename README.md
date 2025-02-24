@@ -34,7 +34,7 @@ I am set to graduate in January 2026 with a degree in Computer Science from Kett
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Microsoft PowerPoint](https://img.shields.io/badge/microsoft%20powerpoint-%23D24726.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![QT Designer]("https://img.shields.io/badge/qt%20designer-%23341C75.svg?style=for-the-badge&logo=qt&logoColor=white")
+![QT Designer](https://img.shields.io/badge/qt%20designer-%23341C75.svg?style=for-the-badge&logo=qt&logoColor=white)
 
 
 While you're here, feel free to check out my projects! You can also:
