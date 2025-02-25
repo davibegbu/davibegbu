@@ -45,6 +45,7 @@ I actively explore full-stack development, AI applications, and cloud computing,
 ![QT Designer](https://img.shields.io/badge/qt%20designer-%23341C75.svg?style=for-the-badge&logo=qt&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![OpenCSV](https://img.shields.io/badge/OpenCSV-%23FF8C00.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 
 
