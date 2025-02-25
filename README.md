@@ -40,8 +40,9 @@ I actively explore full-stack development, AI applications, and cloud computing,
 ![QT Designer](https://img.shields.io/badge/qt%20designer-%23341C75.svg?style=for-the-badge&logo=qt&logoColor=white)
 
 
-While you're here, feel free to check out my projects! You can also:
+## 📬 Let's Connect
+💼 **LinkedIn:** [David Ibegbu](https://www.linkedin.com/in/david-ibegbu-491ba4104)  
+🔗 **Portfolio:** [DavidIbegbu.com](https://davibegbu.github.io/DavidIbegbu.com/)  
+📧 **Email (Personal)** [davibegbu@gmail.com](mailto:davibegbu@gmail.com)
+📧 **Email (School)** [ibeg8576@kettering.edu](mailto:ibeg8576@kettering.edu)  
 
-📩 Contact me: davibegbu@gmail.com or ibeg8576@kettering.edu
-              
-🌐 Learn more about me: [DavidIbegbu.com](https://davibegbu.github.io/DavidIbegbu.com/)
