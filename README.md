@@ -48,7 +48,6 @@ I actively explore full-stack development, AI applications, and cloud computing,
 ![OpenCSV](https://img.shields.io/badge/OpenCSV-%23FF8C00.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 
-
 ## 📬 Let's Connect
 💼 **LinkedIn:** [David Ibegbu](https://www.linkedin.com/in/david-ibegbu-491ba4104)  
 🔗 **Portfolio:** [DavidIbegbu.com](https://davibegbu.github.io/DavidIbegbu.com/)  
