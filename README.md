@@ -12,6 +12,11 @@ I actively explore full-stack development, AI applications, and cloud computing,
 
 ⚽ Soccer Enthusiast | NSBE Leader | Community Volunteer
 
+# 📊 GitHub Stats
+
+<p align="center"> GitHub Streak<br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=davibegbu&theme=dark&hide_border=false" width="400"> </p>
+<p align="center"> Top Languages<br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davibegbu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400"> </p>
+
 ## 🛠 Technologies & Tools
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,6 +43,9 @@ I actively explore full-stack development, AI applications, and cloud computing,
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Microsoft PowerPoint](https://img.shields.io/badge/microsoft%20powerpoint-%23D24726.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![QT Designer](https://img.shields.io/badge/qt%20designer-%23341C75.svg?style=for-the-badge&logo=qt&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 
 ## 📬 Let's Connect
